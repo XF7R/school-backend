@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Tajawal:wght@500&display=swap');
+
+* {
+    font-family: 'Tajawal', sans-serif;
+}
+
+.tuwaiq a {
+    background-color: rgb(255, 230, 0);
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+
+h1 {
+    color: rgb(54, 89, 135);
+    text-align: center;
+    font-family: 'Tajawal', sans-serif;
+}
+
+#TuwaiqIMG img {
+    width: 250px;
+    text-align: center;
+}
+
+.TuwaiqAcademy h3 {
+    color: rgb(54, 89, 135);
+    text-decoration: underline;
+}
